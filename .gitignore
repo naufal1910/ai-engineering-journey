@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Mac and Windows OS files
+.DS_Store
+Thumbs.db
+
+# Deployment / build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python test and coverage artifacts
+.coverage
+htmlcov/
+.tox/
+.nox/
+pytest_cache/
